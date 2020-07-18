@@ -1,0 +1,30 @@
+[
+    {
+        "name": "ETH",
+        "defaultPrice": 0
+    },
+    {
+        "name": "BTC",
+        "defaultPrice": 0
+    },
+    {
+        "name": "DASH",
+        "defaultPrice": 0
+    },
+    {
+        "name": "EUR",
+        "defaultPrice": 0
+    },
+    {
+        "name": "PTR",
+        "defaultPrice": 60
+    },
+    {
+        "name": "BSS",
+        "defaultPrice": 0.00001
+    },
+    {
+        "name": "USD",
+        "defaultPrice": 1
+    }
+]
